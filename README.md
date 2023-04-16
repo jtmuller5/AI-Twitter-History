@@ -58,36 +58,42 @@ Don't forget to:
 # <a name="chatgpt"></a>☕️ ChatGPT
 
 > All stats recorded as of 4/15/2023
-
 > Length is the total number of tweets from the author in the thread
 
 
-|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | 
-| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
-| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | 
-| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1645785052431937539) | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 | 
-| [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 | 
-| [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 
-| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 | 
-| [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 
-| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1647192619590483968)| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 
-| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 
-| [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 | 
-| [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
-| [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 | 
-| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 
-| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 
-| [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 
-| [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 
-| [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 
-| [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 | 
-| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 
-| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 | 
-| [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 
-| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 
+|  Icon | Type | 
+| ---| ------ | 
+| 🧵| Informative Thread| 
+| 📝| Notion Document | 
+
+
+|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
+| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
+| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | |
+| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1645785052431937539) | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 |  |
+| [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 |  |
+| [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 |  |
+| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  |
+| [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 |  |
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1647192619590483968)| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 |  |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 |  |
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 |  |
+| [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 |  |
+| [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 |  |
+| [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 |  |
+| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 |  |
+| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 |  |
+| [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 |  |
+| [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 |  |
+| [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 |  |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 |  |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 |  |
+| [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |  |
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 📝 |
+| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 |  |
+| [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 |  |
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
+| [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
 
 
 

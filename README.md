@@ -26,7 +26,7 @@ In this repo I wanted to explore the success of this tweet template while compil
 <br/>
 <br/>
 
-I've also included templates a few of the templates so you can tell people they don't know ChatGPT too!
+I've also included templates so you can tell people they don't know ChatGPT too!
 
 ________
 

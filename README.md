@@ -45,6 +45,12 @@ Don't forget to:
 
 
 # <a name="chatgpt"></a>☕️ ChatGPT
+
+> All stats recorded as of 4/15/2023
+
+> Length is the total number of tweets from the author in the thread
+
+
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | 
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | 
@@ -62,7 +68,7 @@ Don't forget to:
 | [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 
 | [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 
-
+| [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 
 
 
 

@@ -47,18 +47,18 @@ Don't forget to:
 # <a name="chatgpt"></a>☕️ ChatGPT
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | 
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
-| [@hasantoxr](https://twitter.com/hasantoxr)| https://twitter.com/hasantoxr/status/1645702969306800129 | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | 
-| [@heyBarsee](https://twitter.com/heyBarsee)| https://twitter.com/heyBarsee/status/1645785052431937539 | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 | 
-| [@itsPaulAi](https://twitter.com/itsPaulAi)| https://twitter.com/itsPaulAi/status/1644306056540049410 | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 | 
-| [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)| https://twitter.com/MushtaqBilalPhD/status/1646444736687865858 | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 
-| [@RunGreatClasses](https://twitter.com/RunGreatClasses)| https://twitter.com/RunGreatClasses/status/1646893636406190080| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 | 
-| [@MartinSlaney](https://twitter.com/MartinSlaney)| https://twitter.com/MartinSlaney/status/1640277796562825221| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 
-| [@IAmPascio](https://twitter.com/IAmPascio)| https://twitter.com/IAmPascio/status/1647192619590483968| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 
-| [@TheVeller](https://twitter.com/TheVeller)| https://twitter.com/TheVeller/status/1647148004565213185| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 
-| [@IAmPascio](https://twitter.com/IAmPascio)| https://twitter.com/IAmPascio/status/1645290583827656704| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 
-| [@ZachMatthai](https://twitter.com/ZachMatthai)| https://twitter.com/ZachMatthai/status/1644613466907353088| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 | 
-| [@NegidaMD](https://twitter.com/NegidaMD)| https://twitter.com/NegidaMD/status/1646514922497671173| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
-| [@matt_gray_](https://twitter.com/matt_gray_)| https://twitter.com/matt_gray_/status/1615698160109625345| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 | 
+| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | 
+| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1645785052431937539) | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 | 
+| [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 | 
+| [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 
+| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 | 
+| [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1647192619590483968)| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 
+| [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 | 
+| [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
+| [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 | 
 
 
 

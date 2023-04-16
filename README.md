@@ -89,6 +89,7 @@ Don't forget to:
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
 | [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
+| [@neeramitra](https://twitter.com/neeramitra)| [Tweet](https://twitter.com/neeramitra/status/1612848402735468546)| 9710 | 43 | 13 | 0 | 30 | 12 | 1/10/23 | 🧵 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |
 | [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|

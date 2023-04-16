@@ -60,6 +60,8 @@ Don't forget to:
 | [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
 | [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 | 
 | [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 
+| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 
+| [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 
 
 
 

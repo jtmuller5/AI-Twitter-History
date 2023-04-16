@@ -183,6 +183,9 @@ Don't forget to:
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
 | [@ArjenHarris](https://twitter.com/ArjenHarris)|  [Tweet](https://twitter.com/ArjenHarris/status/1628666049196355584)| 192.5k | 1481 | 704 | 7 | 259 | 1 | 2/23/23 | 📝 |
+| [@WGMImedia](https://twitter.com/WGMImedia)|  [Tweet](https://twitter.com/WGMImedia/status/1640887371054088192)| 168.8k | 1082 | 774 | 13 | 132 | 1 | 3/28/23 | 📝 |
+
+
 
 # <a name="templates"></a>📝 Templates
 

@@ -88,6 +88,8 @@ Don't forget to:
 | [@JulianA11285860](https://twitter.com/JulianA11285860)|  [Tweet](https://twitter.com/JulianA11285860/status/1614542125651165185)| 37 | 1 | 0 | 0 | 1 | 13 | 1/15/23 | 🧵 |
 | [@NotionCent](https://twitter.com/NotionCent)|  [Tweet](https://twitter.com/NotionCent/status/1633853730134142976)| 531 | 5 | 1 | 0 | 2 | 11 | 3/9/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |
+| [@SethCronin](https://twitter.com/SethCronin)|  [Tweet](https://twitter.com/SethCronin/status/1641794988265680896)| 54 | 0 | 0 | 0 | 0 | 12 | 3/31/23 | 🧵 |
+
 
 
 ## Notion Templates

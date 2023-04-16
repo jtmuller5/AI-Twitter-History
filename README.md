@@ -106,6 +106,7 @@ Don't forget to:
 | [@aseducate101](https://twitter.com/aseducate101)|  [Tweet](https://twitter.com/aseducate101/status/1611436568400777216)| 311 | 7 | 1 | 0 | 0 | 1 | 1/6/23 | 📝 |
 | [@DigitalQuadrate](https://twitter.com/DigitalQuadrate)|  [Tweet](https://twitter.com/DigitalQuadrate/status/1636423453443014673)| 54 | 0 | 1 | 0 | 1 | 12 | 3/16/23 | 🧵 |
 | [@solanobahn](https://twitter.com/solanobahn)|  [Tweet](https://twitter.com/solanobahn/status/1610455588026322948)| 722 | 5 | 1 | 0 | 2 | 1 | 1/3/23 |  |
+| [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
 
 
 

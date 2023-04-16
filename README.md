@@ -111,6 +111,9 @@ Don't forget to:
 | [@deleted_lt](https://twitter.com/deleted_lt)|  [Tweet](https://twitter.com/deleted_lt/status/1626567148356386817)| 143 | 1 | 0 | 0 | 0 | 1 | 2/17/23 | 📝 |
 | [@moritzkremb](https://twitter.com/moritzkremb)|  [Tweet](https://twitter.com/moritzkremb/status/1643407410382483457)| 93 | 2 | 2 | 0 | 0 | 1 | 4/4/23 | 📝 |
 | [@heysamuelyi](https://twitter.com/heysamuelyi)|  [Tweet](https://twitter.com/heysamuelyi/status/1628679316593840128)| 61 | 0 | 1 | 0 | 0 | 2 | 2/23/23 | 📝 |
+| [@JulianA11285860](https://twitter.com/JulianA11285860)|  [Tweet](https://twitter.com/JulianA11285860/status/1614542125651165185)| 37 | 1 | 0 | 0 | 1 | 13 | 1/15/23 | 🧵 |
+
+
 
 
 # <a name="templates"></a>📝 Templates

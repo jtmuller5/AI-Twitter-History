@@ -90,8 +90,8 @@ Don't forget to:
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 📝 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 📝 |
-| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 |  |
-| [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 |  |
+| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 |📝  |
+| [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
 | [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
 

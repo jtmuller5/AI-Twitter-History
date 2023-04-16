@@ -59,6 +59,8 @@ Don't forget to:
 | [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 | 
 | [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
 | [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 | 
+| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 
+
 
 
 

@@ -93,6 +93,7 @@ Don't forget to:
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
 | [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
 | [@hmjhere](https://twitter.com/hmjhere)|  [Tweet](https://twitter.com/hmjhere/status/1632712679545610247)| 188.7k | 2147 | 645 | 14 | 2028 | 15 | 3/6/23 |  🧵|
+| [@ecomchasedimond](https://twitter.com/ecomchasedimond)|  [Tweet](https://twitter.com/ecomchasedimond/status/1611872119348137985)| 154.6k | 811 | 142 | 12 | 741 | 3 | 1/7/23 |  🧵|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1645751106310373376)| 149k | 400 | 88 | 3 | 603 | 12 | 4/11/23 |  🧵|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
 | [@WaqarSaaS](https://twitter.com/WaqarSaaS)|  [Tweet](https://twitter.com/WaqarSaaS/status/1646823114251325441)| 117.6k | 375 | 73 | 1 | 409 | 10 | 4/14/23 |  🧵|

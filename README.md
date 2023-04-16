@@ -107,6 +107,7 @@ Don't forget to:
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
 | [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 📝 |
 | [@KurtisHanni](https://twitter.com/KurtisHanni)|  [Tweet](https://twitter.com/KurtisHanni/status/1617504104665812994)| 1.4M | 3472 | 2125 | 64 | 2178 | 1 | 1/23/23 | 📝 |
+| [@rowancheung](https://twitter.com/rowancheung)|  [Tweet](https://twitter.com/rowancheung/status/1619789758191788034)| 1.4M | 14.6k | 6601 | 123 | 4560 | 3 | 1/29/23 | 📝 |
 | [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 📝 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 |📝  |
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 📝 |

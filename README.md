@@ -102,33 +102,33 @@ Don't forget to:
 ## Notion Templates
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1647192619590483968)| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 📝 |
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 📝 |
-| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 📝 |
-| [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 |  📝|
-| [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 📝 |
 | [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 📝 |
+| [@KurtisHanni](https://twitter.com/KurtisHanni)|  [Tweet](https://twitter.com/KurtisHanni/status/1617504104665812994)| 1.4M | 3472 | 2125 | 64 | 2178 | 1 | 1/23/23 | 📝 |
 | [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 📝 |
-| [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 📝 |
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 📝 |
-| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 📝 |
-| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 📝 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 |📝  |
-| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
-| [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
-| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1627941288711528459)| 111.1k | 1006 | 121 | 8 | 171 | 2 | 2/21/23 | 📝 |
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1645290583827656704)| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 📝 |
 | [@ihteshamit](https://twitter.com/ihteshamit)|  [Tweet](https://twitter.com/ihteshamit/status/1613040506329604099)| 224.5k | 1815 | 259 | 14 | 285 | 2 | 1/11/23 | 📝 |
-| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1618247422790045699)| 99.4k | 292 | 350 | 4 | 58 | 1 | 1/25/23 | 📝 |
-| [@BrenKinfa](https://twitter.com/BrenKinfa)|  [Tweet](https://twitter.com/BrenKinfa/status/1627390603632824320)| 3339 | 24 | 37 | 0 | 2 | 2 | 2/19/23 | 📝 |
-| [@W3Researcher](https://twitter.com/W3Researcher)|  [Tweet](https://twitter.com/W3Researcher/status/1626728146686083072)| 374 | 5 | 1 | 0 | 1 | 1 | 2/17/23 | 📝 |
+| [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 📝 |
 | [@BrianDEvans](https://twitter.com/BrianDEvans)|  [Tweet](https://twitter.com/BrianDEvans/status/1615068738285613056)| 205.6k | 451 | 338 | 17 | 32 | 2 | 1/16/23 | 📝 |
-| [@aseducate101](https://twitter.com/aseducate101)|  [Tweet](https://twitter.com/aseducate101/status/1611436568400777216)| 311 | 7 | 1 | 0 | 0 | 1 | 1/6/23 | 📝 |
-| [@solanobahn](https://twitter.com/solanobahn)|  [Tweet](https://twitter.com/solanobahn/status/1610455588026322948)| 722 | 5 | 1 | 0 | 2 | 1 | 1/3/23 |  |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 📝 |
+| [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1644613466907353088)| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 |  📝|
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1627941288711528459)| 111.1k | 1006 | 121 | 8 | 171 | 2 | 2/21/23 | 📝 |
+| [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
+| [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1647192619590483968)| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 📝 |
+| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1618247422790045699)| 99.4k | 292 | 350 | 4 | 58 | 1 | 1/25/23 | 📝 |
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 📝 |
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
+| [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 📝 |
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1629058675938586626)| 38.3k | 385 | 51 | 6 | 59 | 2 | 2/24/23 | 📝 |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 📝 |
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 📝 |
+| [@BrenKinfa](https://twitter.com/BrenKinfa)|  [Tweet](https://twitter.com/BrenKinfa/status/1627390603632824320)| 3339 | 24 | 37 | 0 | 2 | 2 | 2/19/23 | 📝 |
+| [@solanobahn](https://twitter.com/solanobahn)|  [Tweet](https://twitter.com/solanobahn/status/1610455588026322948)| 722 | 5 | 1 | 0 | 2 | 1 | 1/3/23 |  |
+| [@W3Researcher](https://twitter.com/W3Researcher)|  [Tweet](https://twitter.com/W3Researcher/status/1626728146686083072)| 374 | 5 | 1 | 0 | 1 | 1 | 2/17/23 | 📝 |
+| [@aseducate101](https://twitter.com/aseducate101)|  [Tweet](https://twitter.com/aseducate101/status/1611436568400777216)| 311 | 7 | 1 | 0 | 0 | 1 | 1/6/23 | 📝 |
 | [@deleted_lt](https://twitter.com/deleted_lt)|  [Tweet](https://twitter.com/deleted_lt/status/1626567148356386817)| 143 | 1 | 0 | 0 | 0 | 1 | 2/17/23 | 📝 |
 | [@moritzkremb](https://twitter.com/moritzkremb)|  [Tweet](https://twitter.com/moritzkremb/status/1643407410382483457)| 93 | 2 | 2 | 0 | 0 | 1 | 4/4/23 | 📝 |
 | [@heysamuelyi](https://twitter.com/heysamuelyi)|  [Tweet](https://twitter.com/heysamuelyi/status/1628679316593840128)| 61 | 0 | 1 | 0 | 0 | 2 | 2/23/23 | 📝 |
-| [@KurtisHanni](https://twitter.com/KurtisHanni)|  [Tweet](https://twitter.com/KurtisHanni/status/1617504104665812994)| 1.4M | 3472 | 2125 | 64 | 2178 | 1 | 1/23/23 | 📝 |
 
 
 

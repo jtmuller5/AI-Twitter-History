@@ -18,9 +18,10 @@ In fact, you've probably seen at least 20 tweets like this 😂 There are a lot 
 
 In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. In doing so, I've discovered a few things.
 
-- Originality doesn't matter. This tweet format has been used thousands of times and many of the tweets have thousands of views. So far I've found a handful that all have over 1M views 🤯
-- Giving away free stuff works. Half of the tweets using this format were giving away a Notion Template with prompting tips. They all did pretty well
+- Originality doesn't matter.
+- Giving away free stuff works. 
 - People bookmark a lot of tweets.
+- You can use the same tweet twice. Or three times. Or more if you have no shame.
 - Originality doesn't matter.
 <br/>
 <br/>
@@ -85,6 +86,7 @@ Don't forget to:
 | [@TanmayS_Chauhan](https://twitter.com/TanmayS_Chauhan)| [Tweet](https://twitter.com/TanmayS_Chauhan/status/1610984459200765952) | 610k | 4340 | 1230 | 31 | 3454 | 13 | 1/5/23 |🧵 |
 | [@Abhishek_HQ](https://twitter.com/Abhishek_HQ)| [Tweet](https://twitter.com/Abhishek_HQ/status/1640320177320656896) | 368.9k | 1799 | 469 | 5 | 3171 | 10 | 3/27/23 |🧵 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
+| [@hwbhatti](https://twitter.com/hwbhatti)| [Tweet](https://twitter.com/hwbhatti/status/1631280512399552512)| 220.4k | 423 | 102 | 9 | 727 | 12 | 3/2/23 |🧵  |
 | [@Replit](https://twitter.com/Replit)| [Tweet](https://twitter.com/Replit/status/1616481968212021249)| 216k | 2010 | 349 | 38 | 1921 | 7 | 1/20/23 |🧵  |
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
 | [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|

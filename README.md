@@ -184,6 +184,8 @@ Don't forget to:
 ## Notion Templates
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
+| [@Abhishek_HQ](https://twitter.com/Abhishek_HQ)|  [Tweet](https://twitter.com/Abhishek_HQ/status/1644965618863734784)| 334.5k | 3191 | 1662 | 27 | 853 | 1 | 4/9/23 | 📝 |
+| [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1636620502549536769)| 244.2k | 1905 | 314 | 24 | 303 | 1 | 3/17/23 | 📝 |
 | [@ArjenHarris](https://twitter.com/ArjenHarris)|  [Tweet](https://twitter.com/ArjenHarris/status/1628666049196355584)| 192.5k | 1481 | 704 | 7 | 259 | 1 | 2/23/23 | 📝 |
 | [@WGMImedia](https://twitter.com/WGMImedia)|  [Tweet](https://twitter.com/WGMImedia/status/1640887371054088192)| 168.8k | 1082 | 774 | 13 | 132 | 1 | 3/28/23 | 📝 |
 

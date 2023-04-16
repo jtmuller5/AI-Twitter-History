@@ -57,14 +57,14 @@ Don't forget to:
 
 # <a name="chatgpt"></a>☕️ ChatGPT
 
-> All stats recorded as of 4/15/2023
-> Length is the total number of tweets from the author in the thread
-
-
 |  Icon | Type | 
 | ---| ------ | 
 | 🧵| Informative Thread| 
 | 📝| Notion Template or Prompt Resource | 
+
+> All stats recorded as of 4/15/2023
+> 
+> Length is the total number of tweets from the author in the thread
 
 
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |

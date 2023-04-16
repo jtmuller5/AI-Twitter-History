@@ -48,8 +48,8 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 | Months             | Trend         | Hashtags   |
 |--------------------|---------------|------------|
 | March 2023         | [HustleGPT](https://github.com/jtmuller5/The-HustleGPT-Challenge) | #HustleGPT |
-| January-April 2023 | [You don't know ChatGPT](https://github.com/jtmuller5/You-Dont-Know-ChatGPT) | #ChatGPT |
-| April 2023         | AutoGPT is the Next Big Thing | #AutoGPT |
+| January-April 2023 | [You don't know ChatGPT](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/you-dont-know-chatgpt.md) | #ChatGPT |
+| April 2023         | [AutoGPT is the Next Big Thing](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/autogpt-is-the-next-big-thing.md) | #AutoGPT |
 
 # <a name="timeline"></a>🕰️ Timeline
 

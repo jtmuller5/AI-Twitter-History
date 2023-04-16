@@ -76,6 +76,7 @@ Don't forget to:
 | [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 |🧵|
 | [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
+| [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
 | [@Char1ieBennett](https://twitter.com/Char1ieBennett)|  [Tweet](https://twitter.com/Char1ieBennett/status/1611052476450410501)| 105.9k | 374 | 98 | 8 | 347 | 15 | 1/5/23 |  🧵|
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|

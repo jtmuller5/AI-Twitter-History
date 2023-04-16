@@ -97,6 +97,7 @@ Don't forget to:
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
 | [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1627941288711528459)| 111.1k | 1006 | 121 | 8 | 171 | 2 | 2/21/23 | 📝 |
+| [@ihteshamit](https://twitter.com/ihteshamit)|  [Tweet](https://twitter.com/ihteshamit/status/1613040506329604099)| 224.5k | 1815 | 259 | 14 | 285 | 2 | 1/11/23 | 📝 |
 
 
 # <a name="templates"></a>📝 Templates

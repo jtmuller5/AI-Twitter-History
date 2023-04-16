@@ -94,6 +94,7 @@ Don't forget to:
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
 | [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
+| [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
 
 
 

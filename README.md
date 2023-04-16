@@ -177,6 +177,8 @@ Don't forget to:
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
 | [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1615001574996148227)| 1.1M | 5195 | 1294 | 88 | 5455 | 31 | 1/16/23 | 📝 |
+| [@michalmalewicz](https://twitter.com/michalmalewicz)|  [Tweet](https://twitter.com/michalmalewicz/status/1644342344890847233)| 14.1k | 83 | 13 | 0 | 92 | 14 | 4/7/23 | 📝 |
+
 
 
 ## Notion Templates

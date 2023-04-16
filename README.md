@@ -82,6 +82,7 @@ Don't forget to:
 | [@GuptaSayujya](https://twitter.com/GuptaSayujya)|  [Tweet](https://twitter.com/GuptaSayujya/status/1611695684494983168) | 945.2k | 7091 | 1806 | 65 | 5084 | 10 | 1/7/23 |🧵|
 | [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
+| [@Abhishek_HQ](https://twitter.com/Abhishek_HQ)| [Tweet](https://twitter.com/Abhishek_HQ/status/1640320177320656896) | 368.9k | 1799 | 469 | 5 | 3171 | 10 | 3/27/23 |🧵 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
 | [@Replit](https://twitter.com/Replit)| [Tweet](https://twitter.com/Replit/status/1616481968212021249)| 216k | 2010 | 349 | 38 | 1921 | 7 | 1/20/23 |🧵  |
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |

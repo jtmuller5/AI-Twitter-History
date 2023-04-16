@@ -84,6 +84,7 @@ Don't forget to:
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 | 
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 
 
 
 

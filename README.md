@@ -96,6 +96,7 @@ Don't forget to:
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |
 | [@devinmcpaul](https://twitter.com/devinmcpaul)|  [Tweet](https://twitter.com/devinmcpaul/status/1611377079375007744)| 2636 | 14 | 1 | 4 | 43 | 14 | 1/6/23 | 🧵 |
+| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1644345100078555136)| 2442 | 20 | 2 | 1 | 13 | 5 | 4/7/23 | 🧵 |
 | [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|
 | [@Onejamel](https://twitter.com/Onejamel)|  [Tweet](https://twitter.com/Onejamel/status/1611061639607947278)| 727 | 10 | 1 | 1 | 10 | 12 | 1/5/23 | 🧵|
 | [@NotionCent](https://twitter.com/NotionCent)|  [Tweet](https://twitter.com/NotionCent/status/1633853730134142976)| 531 | 5 | 1 | 0 | 2 | 11 | 3/9/23 | 🧵 |

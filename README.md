@@ -87,6 +87,7 @@ Don't forget to:
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1638451315117260800)| 376.2k | 3094 | 418 | 27 | 0 | 2 | 3/22/23 | 
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 
+| [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 
 
 
 

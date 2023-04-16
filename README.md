@@ -103,6 +103,7 @@ Don't forget to:
 | [@hmjhere](https://twitter.com/hmjhere)|  [Tweet](https://twitter.com/hmjhere/status/1634928528457101316)| 22k | 132 | 30 | 3 | 106 |  18 | 3/12/23 |  🧵|
 | [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
 | [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
+| [@TheRundownAI](https://twitter.com/TheRundownAI)| [Tweet](https://twitter.com/TheRundownAI/status/1623080923204931586)| 12.4k | 187 | 52 | 0 | 130 | 9 | 2/7/23 | 🧵 |
 | [@neeramitra](https://twitter.com/neeramitra)| [Tweet](https://twitter.com/neeramitra/status/1612848402735468546)| 9710 | 43 | 13 | 0 | 30 | 12 | 1/10/23 | 🧵 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |

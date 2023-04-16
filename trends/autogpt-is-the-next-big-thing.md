@@ -31,6 +31,7 @@ The creator @SigGravitas officially announced it as an [open source project](htt
 ## Threads
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
+| [@gregisenberg](https://twitter.com/gregisenberg)|  [Tweet](https://twitter.com/gregisenberg/status/1645817335024869376)| 5.6M | 19.6k | 3122 | 360 | 21.4k | 17 | 4/11/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1646077923030450176)| 949.8k | 3097 | 588 | 31 | 3254 | 9 | 4/12/23 | 🧵 |
 | [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
 | [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |

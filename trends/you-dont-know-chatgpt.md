@@ -36,8 +36,6 @@ I've also included templates so you can tell people they don't know ChatGPT too!
 
 # Table of Contents
 
-[🤝 Our Sponsor](#sponsor)
-
 [🤖 ChatGPT](#chatgpt)
 
 [⛴️ Midjourney](#midjourney)
@@ -45,17 +43,6 @@ I've also included templates so you can tell people they don't know ChatGPT too!
 [📝 Templates](#templates)
 
 [☕️ Support](#support)
-
-
-<br>
-
-
-# <a name="sponsor"></a>🤝 Our Sponsor
-
-| [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
-|----- |
-|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
-| Build a business with an AI co-founder| 
 
 
 # <a name="chatgpt"></a>☕️ ChatGPT

@@ -45,6 +45,8 @@ Don't forget to:
 
 [🤖 ChatGPT](#chatgpt)
 
+[⛴️ Midjourney](#midjourney)
+
 [📝 Templates](#templates)
 
 [☕️ Support](#support)
@@ -160,8 +162,27 @@ Don't forget to:
 | [@moritzkremb](https://twitter.com/moritzkremb)|  [Tweet](https://twitter.com/moritzkremb/status/1643407410382483457)| 93 | 2 | 2 | 0 | 0 | 1 | 4/4/23 | 📝 |
 | [@heysamuelyi](https://twitter.com/heysamuelyi)|  [Tweet](https://twitter.com/heysamuelyi/status/1628679316593840128)| 61 | 0 | 1 | 0 | 0 | 2 | 2/23/23 | 📝 |
 
+# <a name="midjourney"></a>⛴️ Midjourney
+
+|  Icon | Type | 
+| ---| ------ | 
+| 🧵| Informative Thread| 
+| 📝| Notion Template or Prompt Resource | 
+
+> All stats recorded as of 4/15/2023
+> 
+> Length is the total number of tweets from the author in the thread
+
+## Threads
+|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
+| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
+| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1615001574996148227)| 1.1M | 5195 | 1294 | 88 | 5455 | 31 | 1/16/23 | 📝 |
 
 
+## Notion Templates
+|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
+| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
+| [@ArjenHarris](https://twitter.com/ArjenHarris)|  [Tweet](https://twitter.com/ArjenHarris/status/1628666049196355584)| 192.5k | 1481 | 704 | 7 | 259 | 1 | 2/23/23 | 📝 |
 
 # <a name="templates"></a>📝 Templates
 

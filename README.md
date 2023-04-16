@@ -58,6 +58,7 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 | 11/30/2022 | [ChatGPT Announcement](https://twitter.com/sama/status/1598038815599661056) | [@sama](https://twitter.com/sama) |
 | 3/14/2023  | [GPT-4 Announcement](https://twitter.com/sama/status/1635687853324902401)   | [@sama](https://twitter.com/sama) |
 | 3/14/2023  | [Midjourney V5 Announcement](https://twitter.com/midjourney/status/1636130389365497857)   | [@midjourney](https://twitter.com/midjourney) |
+| 3/14/2023  | [PaLM API Announcement](https://twitter.com/sundarpichai/status/1635629680316547072)   | [@sundarpichai](https://twitter.com/sundarpichai) |
 | 3/15/2023  | [HustleGPT Begins](https://twitter.com/jacksonfall/status/1636107218859745286)   | [@jacksonfall](https://twitter.com/jacksonfall) |
 | 3/16/2023  | [EntrepreneurGPT Announced as HustleGPT Venture](https://twitter.com/SigGravitas/status/1636293818080272385)   | [@SigGravitas](https://twitter.com/SigGravitas) |
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |

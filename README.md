@@ -119,6 +119,7 @@ Don't forget to:
 | [@deleted_lt](https://twitter.com/deleted_lt)|  [Tweet](https://twitter.com/deleted_lt/status/1626567148356386817)| 143 | 1 | 0 | 0 | 0 | 1 | 2/17/23 | 📝 |
 | [@moritzkremb](https://twitter.com/moritzkremb)|  [Tweet](https://twitter.com/moritzkremb/status/1643407410382483457)| 93 | 2 | 2 | 0 | 0 | 1 | 4/4/23 | 📝 |
 | [@heysamuelyi](https://twitter.com/heysamuelyi)|  [Tweet](https://twitter.com/heysamuelyi/status/1628679316593840128)| 61 | 0 | 1 | 0 | 0 | 2 | 2/23/23 | 📝 |
+| [@KurtisHanni](https://twitter.com/KurtisHanni)|  [Tweet](https://twitter.com/KurtisHanni/status/1617504104665812994)| 1.4M | 3472 | 2125 | 64 | 2178 | 1 | 1/23/23 | 📝 |
 
 
 

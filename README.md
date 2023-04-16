@@ -95,6 +95,7 @@ Don't forget to:
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
 | [@cirving](https://twitter.com/cirving)| [Tweet](https://twitter.com/cirving/status/1636423429921357838)| 110.2k | 790 | 109 | 7 | 97 | 1 | 3/16/23 |  📝|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
+| [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
 
 
 

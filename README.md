@@ -20,6 +20,7 @@ In this repo I wanted to explore the success of this tweet template while compil
 
 - Originality doesn't matter. This tweet format has been used thousands of times and many of the tweets have thousands of views. So far I've found a handful that all have over 1M views 🤯
 - Giving away free stuff works. Half of the tweets using this format were giving away a Notion Template with prompting tips. They all did pretty well
+- People bookmark a lot of tweets.
 - Originality doesn't matter.
 <br/>
 <br/>

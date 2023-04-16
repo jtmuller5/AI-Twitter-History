@@ -166,11 +166,11 @@ Don't forget to:
 # <a name="templates"></a>📝 Templates
 
 ```
-ChatGPT is a FREE {insert employee type}.
+(The most popular thing on the internet} is a FREE {insert employee type}.
 
 But most people don't know how to use it.
 
-That's why I built 150 prompts to 10x your {task} in no-time.
+That's why I built {Something cool to help you do something}.
 
 And for the next 24 hours, it's FREE!
 

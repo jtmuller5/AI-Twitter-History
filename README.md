@@ -1,2 +1,61 @@
-# ChatGPT-is-good-but
-ChatGPT is good but you don't know how to use it
+# 🤖 ChatGPT is Good, but...
+
+If you've been on Twitter at all during the past month, you've probably seen a tweet that goes something like this:
+
+> ChatGPT is good but 95% of people don't know how to use it. <br/> <br/> Here are 10 tips on how to get the most out of ChatGPT" <br/> <br/>  🧵👇
+
+In fact, you've probably seen at least 20 tweets like this 😂 It's very popular...
+
+In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. I've also included templates you can use to give it a go yourself!
+
+________
+
+Don't forget to:
+
+⭐⭐⭐ Give this repo a star so 95% of people can see these tips
+
+🔖🔖🔖 Bookmark this page to see future tweets like this 
+
+👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
+<br>
+<br>
+# Table of Contents
+
+[🤝 Our Sponsor](#sponsor)
+
+[🤖 ChatGPT](#chatgpt)
+
+[☕️ Support](#support)
+
+
+<br>
+
+
+# <a name="sponsor"></a>🤝 Our Sponsor
+
+| [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
+|----- |
+|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
+| Build a business with an AI co-founder| 
+
+
+# <a name="chatgpt"></a>☕️ ChatGPT
+|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | 
+| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
+| [@hasantoxr](https://twitter.com/hasantoxr)| https://twitter.com/hasantoxr/status/1645702969306800129 | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 | 
+| [@heyBarsee](https://twitter.com/heyBarsee)| https://twitter.com/heyBarsee/status/1645785052431937539 | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 | 
+| [@itsPaulAi](https://twitter.com/itsPaulAi)| https://twitter.com/itsPaulAi/status/1644306056540049410 | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 | 
+| [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)| https://twitter.com/MushtaqBilalPhD/status/1646444736687865858 | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 
+| [@RunGreatClasses](https://twitter.com/RunGreatClasses)| https://twitter.com/RunGreatClasses/status/1646893636406190080| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 | 
+| [@MartinSlaney](https://twitter.com/MartinSlaney)| https://twitter.com/MartinSlaney/status/1640277796562825221| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 
+| [@IAmPascio](https://twitter.com/IAmPascio)| https://twitter.com/IAmPascio/status/1647192619590483968| 101.6k | 418 | 574 | 8 | 119 | 1 | 4/15/23 | 
+| [@TheVeller](https://twitter.com/TheVeller)| https://twitter.com/TheVeller/status/1647148004565213185| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 
+| [@IAmPascio](https://twitter.com/IAmPascio)| https://twitter.com/IAmPascio/status/1645290583827656704| 354.8k | 1222 | 1941 | 43 | 328 | 2 | 4/15/23 | 
+| [@ZachMatthai](https://twitter.com/ZachMatthai)| https://twitter.com/ZachMatthai/status/1644613466907353088| 120.2k | 661 | 92 | 4 | 90 | 1 | 4/15/23 | 
+| [@NegidaMD](https://twitter.com/NegidaMD)| https://twitter.com/NegidaMD/status/1646514922497671173| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 
+
+
+
+# <a name="support"></a>☕️ Support
+<a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+

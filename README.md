@@ -1,12 +1,17 @@
 # 🤖 ChatGPT is Good, but...
 
 If you've been on Twitter at all during the past month, you've probably seen a tweet that goes something like this:
+<br/>
+<br/>
 
 > ChatGPT is good but 95% of people don't know how to use it. <br/> <br/> Here are 10 tips on how to get the most out of ChatGPT" <br/> <br/>  🧵👇
 
+<br/>
 In fact, you've probably seen at least 20 tweets like this 😂 It's very popular...
 
-In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. I've also included templates you can use to give it a go yourself!
+In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. 
+
+I've also included templates you can use to give it a go yourself!
 
 ________
 

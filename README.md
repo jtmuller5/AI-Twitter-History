@@ -83,6 +83,7 @@ Don't forget to:
 | [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 
+| [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 | 
 
 
 

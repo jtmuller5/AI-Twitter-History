@@ -155,6 +155,7 @@ Don't forget to:
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1629058675938586626)| 38.3k | 385 | 51 | 6 | 59 | 2 | 2/24/23 | 📝 |
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 📝 |
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 📝 |
+| [@MagicHustler_](https://twitter.com/MagicHustler_)| [Tweet](https://twitter.com/MagicHustler_/status/1646494606693941249)| 3422| 29 | 25 | 1 | 2 | 1 | 4/13/23 | 📝 |
 | [@BrenKinfa](https://twitter.com/BrenKinfa)|  [Tweet](https://twitter.com/BrenKinfa/status/1627390603632824320)| 3339 | 24 | 37 | 0 | 2 | 2 | 2/19/23 | 📝 |
 | [@solanobahn](https://twitter.com/solanobahn)|  [Tweet](https://twitter.com/solanobahn/status/1610455588026322948)| 722 | 5 | 1 | 0 | 2 | 1 | 1/3/23 |  |
 | [@W3Researcher](https://twitter.com/W3Researcher)|  [Tweet](https://twitter.com/W3Researcher/status/1626728146686083072)| 374 | 5 | 1 | 0 | 1 | 1 | 2/17/23 | 📝 |

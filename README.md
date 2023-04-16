@@ -14,8 +14,12 @@ Here are 10 tips on how to get the most out of ChatGPT
 <br/>
 In fact, you've probably seen at least 20 tweets like this 😂 There are a lot of folks claiming YOU DON'T KNOW CHATGPT, and that even if you do, you're using it wrong. lol.
 <br/>
+<br/>
+
 In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. 
 <br/>
+<br/>
+
 I've also included templates you can use to give it a go yourself!
 
 ________

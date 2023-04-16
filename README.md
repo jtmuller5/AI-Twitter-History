@@ -73,7 +73,7 @@ Don't forget to:
 | [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 
 | [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 
 
-# <a name="templates"></a>📝 Template
+# <a name="templates"></a>📝 Templates
 
 ```
 ChatGPT is a FREE {insert employee type}.

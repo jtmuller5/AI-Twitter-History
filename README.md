@@ -104,6 +104,7 @@ Don't forget to:
 | [@W3Researcher](https://twitter.com/W3Researcher)|  [Tweet](https://twitter.com/W3Researcher/status/1626728146686083072)| 374 | 5 | 1 | 0 | 1 | 1 | 2/17/23 | 📝 |
 | [@BrianDEvans](https://twitter.com/BrianDEvans)|  [Tweet](https://twitter.com/BrianDEvans/status/1615068738285613056)| 205.6k | 451 | 338 | 17 | 32 | 2 | 1/16/23 | 📝 |
 | [@aseducate101](https://twitter.com/aseducate101)|  [Tweet](https://twitter.com/aseducate101/status/1611436568400777216)| 311 | 7 | 1 | 0 | 0 | 1 | 1/6/23 | 📝 |
+| [@DigitalQuadrate](https://twitter.com/DigitalQuadrate)|  [Tweet](https://twitter.com/DigitalQuadrate/status/1636423453443014673)| 54 | 0 | 1 | 0 | 1 | 12 | 3/16/23 | 🧵 |
 
 
 

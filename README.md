@@ -30,6 +30,8 @@ Don't forget to:
 
 [🤖 ChatGPT](#chatgpt)
 
+[📝 Templates](#templates)
+
 [☕️ Support](#support)
 
 
@@ -69,8 +71,25 @@ Don't forget to:
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 
 | [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 
 | [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 
+| [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 
 
+# <a name="templates"></a>📝 Template
 
+```
+ChatGPT is a FREE {insert employee type}.
+
+But most people don't know how to use it.
+
+That's why I built 150 prompts to 10x your {task} in no-time.
+
+And for the next 24 hours, it's FREE!
+
+To get it, just:
+
+1. Follow me @{your username}
+2. Like this tweet
+3. Reply "SEND"
+```
 
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

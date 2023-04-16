@@ -108,7 +108,7 @@ Don't forget to:
 | [@solanobahn](https://twitter.com/solanobahn)|  [Tweet](https://twitter.com/solanobahn/status/1610455588026322948)| 722 | 5 | 1 | 0 | 2 | 1 | 1/3/23 |  |
 | [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1629058675938586626)| 38.3k | 385 | 51 | 6 | 59 | 2 | 2/24/23 | 📝 |
-
+| [@deleted_lt](https://twitter.com/deleted_lt)|  [Tweet](https://twitter.com/deleted_lt/status/1626567148356386817)| 143 | 1 | 0 | 0 | 0 | 1 | 2/17/23 | 📝 |
 
 
 

@@ -76,23 +76,23 @@ Don't forget to:
 | [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 |🧵|
 | [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
-| [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
-| [@Char1ieBennett](https://twitter.com/Char1ieBennett)|  [Tweet](https://twitter.com/Char1ieBennett/status/1611052476450410501)| 105.9k | 374 | 98 | 8 | 347 | 15 | 1/5/23 |  🧵|
-| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
-| [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|
-| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
-| [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
-| [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
+| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
+| [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
+| [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
+| [@Char1ieBennett](https://twitter.com/Char1ieBennett)|  [Tweet](https://twitter.com/Char1ieBennett/status/1611052476450410501)| 105.9k | 374 | 98 | 8 | 347 | 15 | 1/5/23 |  🧵|
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
-| [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
+| [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
-| [@DigitalQuadrate](https://twitter.com/DigitalQuadrate)|  [Tweet](https://twitter.com/DigitalQuadrate/status/1636423453443014673)| 54 | 0 | 1 | 0 | 1 | 12 | 3/16/23 | 🧵 |
-| [@JulianA11285860](https://twitter.com/JulianA11285860)|  [Tweet](https://twitter.com/JulianA11285860/status/1614542125651165185)| 37 | 1 | 0 | 0 | 1 | 13 | 1/15/23 | 🧵 |
-| [@NotionCent](https://twitter.com/NotionCent)|  [Tweet](https://twitter.com/NotionCent/status/1633853730134142976)| 531 | 5 | 1 | 0 | 2 | 11 | 3/9/23 | 🧵 |
+| [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
+| [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |
+| [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|
+| [@NotionCent](https://twitter.com/NotionCent)|  [Tweet](https://twitter.com/NotionCent/status/1633853730134142976)| 531 | 5 | 1 | 0 | 2 | 11 | 3/9/23 | 🧵 |
 | [@SethCronin](https://twitter.com/SethCronin)|  [Tweet](https://twitter.com/SethCronin/status/1641794988265680896)| 54 | 0 | 0 | 0 | 0 | 12 | 3/31/23 | 🧵 |
+| [@DigitalQuadrate](https://twitter.com/DigitalQuadrate)|  [Tweet](https://twitter.com/DigitalQuadrate/status/1636423453443014673)| 54 | 0 | 1 | 0 | 1 | 12 | 3/16/23 | 🧵 |
 | [@abassoladosu](https://twitter.com/abassoladosu)|  [Tweet](https://twitter.com/abassoladosu/status/1632345676070658048)| 47 | 0 | 1 | 0 | 0 | 6 | 3/5/23 | 🧵 |
+| [@JulianA11285860](https://twitter.com/JulianA11285860)|  [Tweet](https://twitter.com/JulianA11285860/status/1614542125651165185)| 37 | 1 | 0 | 0 | 1 | 13 | 1/15/23 | 🧵 |
 
 
 ## Notion Templates

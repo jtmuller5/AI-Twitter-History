@@ -95,6 +95,7 @@ Don't forget to:
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
 | [@WaqarSaaS](https://twitter.com/WaqarSaaS)|  [Tweet](https://twitter.com/WaqarSaaS/status/1646823114251325441)| 117.6k | 375 | 73 | 1 | 409 | 10 | 4/14/23 |  🧵|
 | [@Char1ieBennett](https://twitter.com/Char1ieBennett)|  [Tweet](https://twitter.com/Char1ieBennett/status/1611052476450410501)| 105.9k | 374 | 98 | 8 | 347 | 15 | 1/5/23 |  🧵|
+| [@Coach_Riad_](https://twitter.com/Coach_Riad_)|  [Tweet](https://twitter.com/Coach_Riad_/status/1612103662095966208)| 55.7k | 225 | 43 | 1 | 143 | 13 | 1/8/23 |  🧵|
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@NextLogicHQ](https://twitter.com/NextLogicHQ)|  [Tweet](https://twitter.com/NextLogicHQ/status/1646929045928681473)| 47.6k | 110 | 13 | 8 | 405 | 8 | 4/14/23 | 🧵|

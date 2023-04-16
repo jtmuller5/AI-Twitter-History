@@ -86,6 +86,7 @@ Don't forget to:
 | [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1645751106310373376)| 149k | 400 | 88 | 3 | 603 | 12 | 4/11/23 |  🧵|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
+| [@WaqarSaaS](https://twitter.com/WaqarSaaS)|  [Tweet](https://twitter.com/WaqarSaaS/status/1646823114251325441)| 117.6k | 375 | 73 | 1 | 409 | 10 | 4/14/23 |  🧵|
 | [@Char1ieBennett](https://twitter.com/Char1ieBennett)|  [Tweet](https://twitter.com/Char1ieBennett/status/1611052476450410501)| 105.9k | 374 | 98 | 8 | 347 | 15 | 1/5/23 |  🧵|
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|

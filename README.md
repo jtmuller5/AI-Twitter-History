@@ -99,6 +99,8 @@ Don't forget to:
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1627941288711528459)| 111.1k | 1006 | 121 | 8 | 171 | 2 | 2/21/23 | 📝 |
 | [@ihteshamit](https://twitter.com/ihteshamit)|  [Tweet](https://twitter.com/ihteshamit/status/1613040506329604099)| 224.5k | 1815 | 259 | 14 | 285 | 2 | 1/11/23 | 📝 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
+| [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1618247422790045699)| 99.4k | 292 | 350 | 4 | 58 | 1 | 1/25/23 | 📝 |
+
 
 
 # <a name="templates"></a>📝 Templates

@@ -82,6 +82,7 @@ Don't forget to:
 | [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
+| [@Replit](https://twitter.com/Replit)| [Tweet](https://twitter.com/Replit/status/1616481968212021249)| 216k | 2010 | 349 | 38 | 1921 | 7 | 1/20/23 |🧵  |
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
 | [@albadawee](https://twitter.com/albadawee)|  [Tweet](https://twitter.com/albadawee/status/1616059251327225859)| 189.5k | 873 | 203 | 12 | 1138 | 24 | 1/19/23 |  🧵|
 | [@ZachMatthai](https://twitter.com/ZachMatthai)|  [Tweet](https://twitter.com/ZachMatthai/status/1645751106310373376)| 149k | 400 | 88 | 3 | 603 | 12 | 4/11/23 |  🧵|

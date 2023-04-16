@@ -110,6 +110,7 @@ Don't forget to:
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1629058675938586626)| 38.3k | 385 | 51 | 6 | 59 | 2 | 2/24/23 | 📝 |
 | [@deleted_lt](https://twitter.com/deleted_lt)|  [Tweet](https://twitter.com/deleted_lt/status/1626567148356386817)| 143 | 1 | 0 | 0 | 0 | 1 | 2/17/23 | 📝 |
 | [@moritzkremb](https://twitter.com/moritzkremb)|  [Tweet](https://twitter.com/moritzkremb/status/1643407410382483457)| 93 | 2 | 2 | 0 | 0 | 1 | 4/4/23 | 📝 |
+| [@heysamuelyi](https://twitter.com/heysamuelyi)|  [Tweet](https://twitter.com/heysamuelyi/status/1628679316593840128)| 61 | 0 | 1 | 0 | 0 | 2 | 2/23/23 | 📝 |
 
 
 # <a name="templates"></a>📝 Templates

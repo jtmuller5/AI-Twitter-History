@@ -91,6 +91,7 @@ Don't forget to:
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@NextLogicHQ](https://twitter.com/NextLogicHQ)|  [Tweet](https://twitter.com/NextLogicHQ/status/1646929045928681473)| 47.6k | 110 | 13 | 8 | 405 | 8 | 4/14/23 | 🧵|
+| [@LinusEkenstam](https://twitter.com/LinusEkenstam)|  [Tweet](https://twitter.com/LinusEkenstam/status/1615493020152995841)| 42.2k | 262 | 33 | 2 | 181 | 7 | 1/17/23 | 🧵|
 | [@hmjhere](https://twitter.com/hmjhere)|  [Tweet](https://twitter.com/hmjhere/status/1634928528457101316)| 22k | 132 | 30 | 3 | 106 |  18 | 3/12/23 |  🧵|
 | [@IterateIdeas](https://twitter.com/IterateIdeas)|  [Tweet](https://twitter.com/IterateIdeas/status/1617892488076791808)| 21k | 143 | 40 | 2 | 144 | 11 | 1/24/23 | 🧵 |
 | [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |

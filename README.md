@@ -135,6 +135,7 @@ Don't forget to:
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1621948559527493634)| 66.3k | 426 | 579 | 12 | 96 | 2 | 2/4/23 | 📝 |
 | [@iNotionHQ](https://twitter.com/iNotionHQ)| [Tweet](https://twitter.com/iNotionHQ/status/1627720750151893004)| 48.6k | 375 | 489 | 4 | 53 | 2 | 2/20/23 | 📝 |
 | [@NegidaMD](https://twitter.com/NegidaMD)|  [Tweet](https://twitter.com/NegidaMD/status/1646514922497671173)| 41k | 144 | 246 | 1 | 35 | 2 | 4/13/23 | 📝 |
+| [@tomwritesbiz](https://twitter.com/tomwritesbiz)|  [Tweet](https://twitter.com/tomwritesbiz/status/1626259603380994048)| 38.8k | 170 | 6 | 1 | 14 | 3 | 2/16/23 | 📝 |
 | [@IAmPascio](https://twitter.com/IAmPascio)|  [Tweet](https://twitter.com/IAmPascio/status/1629058675938586626)| 38.3k | 385 | 51 | 6 | 59 | 2 | 2/24/23 | 📝 |
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1631927716500111361)| 27.9k | 361 | 173 | 6 | 67 | 2 | 3/4/23 | 📝 |
 | [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1647148004565213185)| 15.6k | 163 | 85 | 3 | 25 | 3 | 4/15/23 | 📝 |

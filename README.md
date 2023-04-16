@@ -16,7 +16,11 @@ In fact, you've probably seen at least 20 tweets like this 😂 There are a lot 
 <br/>
 <br/>
 
-In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. 
+In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. In doing so, I've discovered a few things.
+
+- Originality doesn't matter. This tweet format has been used thousands of times and many of the tweets have thousands of views. So far I've found a handful that all have over 1M views 🤯
+- Giving away free stuff works. Half of the tweets using this format were giving away a Notion Template with prompting tips. They all did pretty well
+- Originality doesn't matter.
 <br/>
 <br/>
 

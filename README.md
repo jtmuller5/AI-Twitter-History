@@ -102,6 +102,7 @@ Don't forget to:
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1618247422790045699)| 99.4k | 292 | 350 | 4 | 58 | 1 | 1/25/23 | 📝 |
 | [@BrenKinfa](https://twitter.com/BrenKinfa)|  [Tweet](https://twitter.com/BrenKinfa/status/1627390603632824320)| 3339 | 24 | 37 | 0 | 2 | 2 | 2/19/23 | 📝 |
 | [@W3Researcher](https://twitter.com/W3Researcher)|  [Tweet](https://twitter.com/W3Researcher/status/1626728146686083072)| 374 | 5 | 1 | 0 | 1 | 1 | 2/17/23 | 📝 |
+| [@BrianDEvans](https://twitter.com/BrianDEvans)|  [Tweet](https://twitter.com/BrianDEvans/status/1615068738285613056)| 205.6k | 451 | 338 | 17 | 32 | 2 | 1/16/23 | 📝 |
 
 
 

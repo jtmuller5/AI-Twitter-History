@@ -69,18 +69,18 @@ Don't forget to:
 ## Threads
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
+| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 🧵 |
+| [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 |  🧵|
 | [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1645785052431937539) | 1.6M | 5961 | 1055 | 28 | 10k | 13  | 4/11/23 | 🧵 |
 | [@themattmic](https://twitter.com/themattmic)|  [Tweet](https://twitter.com/themattmic/status/1610634157704773633) | 1.6M | 11.3k | 3076 | 195 | 8026 | 13  | 1/4/23 | 🧵 |
 | [@itsPaulAi](https://twitter.com/itsPaulAi)|  [Tweet](https://twitter.com/itsPaulAi/status/1644306056540049410) | 1.4M | 8416 | 1658 | 40 | 13.7k | 9  | 4/7/23 |🧵|
 | [@MushtaqBilalPhD](https://twitter.com/MushtaqBilalPhD)|  [Tweet](https://twitter.com/MushtaqBilalPhD/status/1646444736687865858) | 908.2k | 3731 | 720 | 27 | 4096 |  14 | 4/13/23 | 🧵 |
+| [@hasantoxr](https://twitter.com/hasantoxr)| [Tweet](https://twitter.com/hasantoxr/status/1645702969306800129) | 808.2k | 3838 | 822 | 12 | 4925 | 14  | 4/11/23 |🧵 |
 | [@RunGreatClasses](https://twitter.com/RunGreatClasses)|  [Tweet](https://twitter.com/RunGreatClasses/status/1646893636406190080)| 49.2k | 74 | 9 | 2 | 125 |  6 | 4/14/23 |  🧵|
 | [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|
-| [@matt_gray_](https://twitter.com/matt_gray_)|  [Tweet](https://twitter.com/matt_gray_/status/1615698160109625345)| 2.6M | 10.1k | 1882 | 85 | 9768 | 13 | 1/18/23 |  🧵|
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1610992014866190337)| 201.8k | 957 | 215 | 8 | 597 | 13 | 1/5/23 | 🧵 |
 | [@ZachMatthai](https://twitter.com/ZachMatthai)| [Tweet](https://twitter.com/ZachMatthai/status/1643524183425536000)| 146k | 282 | 52 | 3 | 267 | 8 | 4/5/23 | 🧵 |
 | [@AtOnceCo](https://twitter.com/AtOnceCo)| [Tweet](https://twitter.com/AtOnceCo/status/1613173641163718656)| 17.1k | 187 | 43 | 4 | 115 | 13 | 1/11/23 | 🧵 |
-| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 🧵 |
 | [@BetterLegal](https://twitter.com/BetterLegal)| [Tweet](https://twitter.com/BetterLegal/status/1642489606913376257)| 285.5k | 664 | 170 | 12 | 831 | 10 | 4/2/23 |🧵  |
 | [@AdamFard_](https://twitter.com/AdamFard_)| [Tweet](https://twitter.com/AdamFard_/status/1621144086811131907)| 51.2k | 440 | 133 | 2 | 406 | 12 | 2/2/23 | 🧵 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |

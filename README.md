@@ -100,6 +100,7 @@ Don't forget to:
 | [@ihteshamit](https://twitter.com/ihteshamit)|  [Tweet](https://twitter.com/ihteshamit/status/1613040506329604099)| 224.5k | 1815 | 259 | 14 | 285 | 2 | 1/11/23 | 📝 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@danmurrayserter](https://twitter.com/danmurrayserter)|  [Tweet](https://twitter.com/danmurrayserter/status/1618247422790045699)| 99.4k | 292 | 350 | 4 | 58 | 1 | 1/25/23 | 📝 |
+| [@BrenKinfa](https://twitter.com/BrenKinfa)|  [Tweet](https://twitter.com/BrenKinfa/status/1627390603632824320)| 3339 | 24 | 37 | 0 | 2 | 2 | 2/19/23 | 📝 |
 
 
 

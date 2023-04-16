@@ -1,115 +1,41 @@
 | Field | Data |
 |-------|------|
-| Title | You Don't Know ChatGPT |
-| Date Range | 1/1/23 - 4/15/23 |
-| Hashtags| #ChatGPT #GPT4 |
+| Title | AutoGPT is the Next Big Thing |
+| Dates | April 2023|
+| Hashtags| #AutoGPT |
 
-# 🤖 ChatGPT is good, but...
+# 🤖  AutoGPT is the Next Big Thing
 
-If you've been on Twitter at all during the past month, you've probably seen a tweet that goes something like this:
-<br/>
-<br/>
+AutoGPT, a HustleGPT project that started as ["EntrepreneurGPT"](https://twitter.com/SigGravitas/status/1636293818080272385), took over the internet at the beginning of April 2023.
 
-```
-ChatGPT is good, but 95% of people don't know how to use it.
+The creator @SigGravitas officially announced it as an [open source project](https://github.com/Significant-Gravitas/Auto-GPT) on March 30th and in a little over 2 weeks, the Github repo had more stars than the PyTorch library.
 
-Here are 10 tips on how to get the most out of ChatGPT
+| Release | Update |
+| ---- | ---- | 
+|![image](https://user-images.githubusercontent.com/47997351/232349376-4b4c17ae-785d-4edd-a51f-8a745a0ca5f4.png)|![image](https://user-images.githubusercontent.com/47997351/232349430-481a42b5-4a1d-41a6-9cbe-d8ddde1f1d38.png)|
 
-🧵👇
-```
-<br/>
-In fact, you've probably seen at least 20 tweets like this 😂 There are a lot of folks claiming YOU DON'T KNOW CHATGPT, and that even if you do, you're using it wrong. lol.
-<br/>
-<br/>
-
-In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. In doing so, I've discovered a few things.
-
-- Originality doesn't matter.
-- Giving away free stuff works.
-- People bookmark a lot of tweets.
-- You can use the same tweet twice. Or three times. Or more if you have no shame.
-- Originality doesn't matter.
-  <br/>
-  <br/>
-
-I've also included templates so you can tell people they don't know ChatGPT too!
 
 # Table of Contents
 
-[🤖 ChatGPT](#chatgpt)
-
-[⛴️ Midjourney](#midjourney)
-
-[📝 Templates](#templates)
+[🐦 Tweets](#tweets)
 
 [☕️ Support](#support)
 
 
-# <a name="chatgpt"></a>☕️ ChatGPT
+# <a name="tweets"></a>🐦 Tweets
 
-|  Icon | Type | 
-| ---| ------ | 
-| 🧵| Informative Thread| 
-| 📝| Notion Template or Prompt Resource | 
-
-> All stats recorded as of 4/15/2023
+> All stats recorded as of 4/16/2023
 >
 > Length is the total number of tweets from the author in the thread
 
 ## Threads
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 🧵 |
+| [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1646077923030450176)| 949.8k | 3097 | 588 | 31 | 3254 | 9 | 4/12/23 | 🧵 |
+| [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
+| [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |
 
 
-
-## Notion Templates
-|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
-| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@jspeiser](https://twitter.com/jspeiser)|  [Tweet](https://twitter.com/jspeiser/status/1609912415289761795)| 9.2M | 59.9k | 13k | 611 | 47.7k | 12 | 1/2/23 | 📝 |
-
-# <a name="midjourney"></a>⛴️ Midjourney
-
-|  Icon | Type | 
-| ---| ------ | 
-| 🧵| Informative Thread| 
-| 📝| Notion Template or Prompt Resource | 
-
-> All stats recorded as of 4/15/2023
->
-> Length is the total number of tweets from the author in the thread
-
-## Threads
-|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
-| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1615001574996148227)| 1.1M | 5195 | 1294 | 88 | 5455 | 31 | 1/16/23 | 📝 |
-
-
-
-## Notion Templates
-|  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
-| ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@Abhishek_HQ](https://twitter.com/Abhishek_HQ)|  [Tweet](https://twitter.com/Abhishek_HQ/status/1644965618863734784)| 334.5k | 3191 | 1662 | 27 | 853 | 1 | 4/9/23 | 📝 |
-
-
-
-# <a name="templates"></a>📝 Templates
-
-```
-(The most popular thing on the internet} is a FREE {insert employee type}.
-
-But most people don't know how to use it.
-
-That's why I built {Something cool to help you do something}.
-
-And for the next 24 hours, it's FREE!
-
-To get it, just:
-
-1. Follow me @{your username}
-2. Like this tweet
-3. Reply "SEND"
-```
 
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

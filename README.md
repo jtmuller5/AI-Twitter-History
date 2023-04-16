@@ -1,16 +1,21 @@
-# 🤖 ChatGPT is Good, but...
+# 🤖 ChatGPT is good, but...
 
 If you've been on Twitter at all during the past month, you've probably seen a tweet that goes something like this:
 <br/>
 <br/>
 
-> ChatGPT is good but 95% of people don't know how to use it. <br/> <br/> Here are 10 tips on how to get the most out of ChatGPT" <br/> <br/>  🧵👇
+```
+ChatGPT is good, but 95% of people don't know how to use it.
 
+Here are 10 tips on how to get the most out of ChatGPT
+
+🧵👇
+```
 <br/>
-In fact, you've probably seen at least 20 tweets like this 😂 It's very popular...
-
+In fact, you've probably seen at least 20 tweets like this 😂 There are a lot of folks claiming YOU DON'T KNOW CHATGPT, and that even if you do, you're using it wrong. lol.
+<br/>
 In this repo I wanted to explore the success of this tweet template while compiling as many tweets using it as possible. 
-
+<br/>
 I've also included templates you can use to give it a go yourself!
 
 ________
@@ -72,6 +77,8 @@ Don't forget to:
 | [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1612098574019612674)| 3.4M | 9954 | 7808 | 307 | 4527 | 2 | 1/8/23 | 
 | [@joe_portsmouth](https://twitter.com/joe_portsmouth)|  [Tweet](https://twitter.com/joe_portsmouth/status/1627299499335995393)| 628.8k | 3813 | 519 | 34 | 1146 | 2 | 2/19/23 | 
 | [@denicmarko](https://twitter.com/denicmarko)|  [Tweet](https://twitter.com/denicmarko/status/1616051027609882624)| 221.8k | 986 | 611 | 8 | 267 | 2 | 1/19/23 | 
+| [@TheVeller](https://twitter.com/TheVeller)| [Tweet](https://twitter.com/TheVeller/status/1634464427893473280)| 146.2k | 1494 | 725 | 15 | 311 | 2 | 3/11/23 | 
+
 
 # <a name="templates"></a>📝 Templates
 

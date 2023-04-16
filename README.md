@@ -92,6 +92,7 @@ Don't forget to:
 | [@neeramitra](https://twitter.com/neeramitra)| [Tweet](https://twitter.com/neeramitra/status/1612848402735468546)| 9710 | 43 | 13 | 0 | 30 | 12 | 1/10/23 | 🧵 |
 | [@TheWise_Monk](https://twitter.com/TheWise_Monk)|  [Tweet](https://twitter.com/TheWise_Monk/status/1613177627509923841)| 8640 | 55 | 20 | 0 | 48 | 11 | 1/11/23 | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1620361561981190144)| 4934 | 41 | 8 | 2 | 69 | 13 | 1/31/23 | 🧵 |
+| [@devinmcpaul](https://twitter.com/devinmcpaul)|  [Tweet](https://twitter.com/devinmcpaul/status/1611377079375007744)| 2636 | 14 | 1 | 4 | 43 | 14 | 1/6/23 | 🧵 |
 | [@MartinSlaney](https://twitter.com/MartinSlaney)|  [Tweet](https://twitter.com/MartinSlaney/status/1640277796562825221)| 734 | 3 | 0 | 1 | 1 | 4  | 3/27/23 | 🧵|
 | [@NotionCent](https://twitter.com/NotionCent)|  [Tweet](https://twitter.com/NotionCent/status/1633853730134142976)| 531 | 5 | 1 | 0 | 2 | 11 | 3/9/23 | 🧵 |
 | [@SethCronin](https://twitter.com/SethCronin)|  [Tweet](https://twitter.com/SethCronin/status/1641794988265680896)| 54 | 0 | 0 | 0 | 0 | 12 | 3/31/23 | 🧵 |

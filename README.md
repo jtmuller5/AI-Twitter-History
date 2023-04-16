@@ -20,7 +20,7 @@ In this repo I wanted to explore the success of this tweet template while compil
 <br/>
 <br/>
 
-I've also included templates you can use to give it a go yourself!
+I've also included templates a few of the templates so you can tell people they don't know ChatGPT too!
 
 ________
 

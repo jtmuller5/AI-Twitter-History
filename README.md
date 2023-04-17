@@ -54,6 +54,7 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 | 3/14/2023  | [Claude Announcement](https://twitter.com/AnthropicAI/status/1635679544521920512)   | [@AnthropicAI](https://twitter.com/AnthropicAI) |
 | 3/15/2023  | [HustleGPT Begins](https://twitter.com/jacksonfall/status/1636107218859745286)   | [@jacksonfall](https://twitter.com/jacksonfall) |
 | 3/16/2023  | [EntrepreneurGPT Announced as HustleGPT Venture](https://twitter.com/SigGravitas/status/1636293818080272385)   | [@SigGravitas](https://twitter.com/SigGravitas) |
+| 3/21/2023  | [Adobe Firefly Announcement](https://twitter.com/montelutz/status/1638215263836569600)  | [@montelutz](https://twitter.com/montelutz) |
 | 3/23/2023 | [ChatGPT Plugins Announcement](https://twitter.com/OpenAI/status/1638952876281335813)| [@OpenAI](https://twitter.com/OpenAI)|
 | 3/29/2023 | [Baby AGI Announcement](https://twitter.com/yoheinakajima/status/1640934493489070080)| [@yoheinakajima](https://twitter.com/yoheinakajima)|
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |

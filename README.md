@@ -1,6 +1,6 @@
 # Table of Contents
 
-[🤖️ AI Hype: A Twitter History](#history)
+[🤖️ AI Twitter History](#history)
 
 [🤝 Our Sponsor](#sponsor)
 
@@ -12,7 +12,7 @@
 
 
 
-# <a name="intro"></a>🤖 AI Hype: A Twitter History
+# <a name="intro"></a>🤖 AI Twitter History
 Since AI exploded onto the scene in late 2022, Twitter has been at the cutting edge of the hype. 
 AI news spreads like wildfire on Twitter making it a great place to track new developments, products, and trends.
 

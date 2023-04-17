@@ -38,6 +38,7 @@ Despite it being an experimental project, many folks on Twitter have claimed tha
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
 | [@gregisenberg](https://twitter.com/gregisenberg)|  [Tweet](https://twitter.com/gregisenberg/status/1645817335024869376)| 5.6M | 19.6k | 3122 | 360 | 21.4k | 17 | 4/11/23 | 🧵 |
 | [@karpathy](https://twitter.com/karpathy)|  [Tweet](https://twitter.com/karpathy/status/1642598890573819905)| 1.6M | 4965 | 935 | 132 | 2789 | 5 | 4/2/23 | 🧵 |
+| [@DrJimFan](https://twitter.com/DrJimFan)|  [Tweet](https://twitter.com/DrJimFan/status/1646186278743072770)| 1.4M | 3818 | 594 | 93 | 867 | 1 | 4/12/23 | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1646077923030450176)| 949.8k | 3097 | 588 | 31 | 3254 | 9 | 4/12/23 | 🧵 |
 | [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
 | [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |

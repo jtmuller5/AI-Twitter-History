@@ -69,6 +69,8 @@ More to come soon!
 | 4/8/2023  | [AgentGPT Announcement](https://twitter.com/asimdotshrestha/status/1644883727707959296) | [@asimdotshrestha](https://twitter.com/asimdotshrestha) |
 | 4/13/2023  | [Godmode Announcement](https://twitter.com/_Lonis_/status/1646641412182536196) | [@_Lonis_](https://twitter.com/_Lonis_) |
 | 4/14/2023 | [Elon creates X.ai](https://twitter.com/WSJ/status/1646993010373132288) | [@WSJ](https://twitter.com/WSJ)|
+| 4/17/2023 | [Magi Annnouncement](https://twitter.com/heyBarsee/status/1647857832501592064) | [@heyBarsee](https://twitter.com/heyBarsee)|
+
 
 
 # <a name="support"></a>☕️ Support

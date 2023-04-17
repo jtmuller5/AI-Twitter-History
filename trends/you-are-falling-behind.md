@@ -37,6 +37,7 @@ _______________
 |  Tweeter | Link | Views  | Likes | Retweets | Quotes | Bookmarks | Length | Date     | Type |
 | ---| ------ |--------|-------|----------|--------|-----------|--------|----------|----- |
 | [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1584477023346470912)| - | 64.2k  | 14.1k    | 471     | 61.3k   | 9  | 10/24/22  | 🧵 |
+| [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1598201446427758592)| - | 13.1k  | 3037   | 80  | 13.4k  |  12 | 12/1/22  | 🧵 |
 | [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1642542129665679361)| 3.3M | 18.8k | 4428  | 156 | 30.2k | 17  | 4/2/23  | 🧵 |
 | [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1643968837136834560)| 1.9M | 26.9k  | 6112    | 98     | 21.3k   | 2  | 4/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756   | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
@@ -47,6 +48,7 @@ _______________
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1641778057135501313)| 378.4k | 2248  | 614      | 17     | 3067      | 13     | 3/31/23  | 🧵 |
 | [@NextLogicHQ](https://twitter.com/NextLogicHQ)|  [Tweet](https://twitter.com/NextLogicHQ/status/1645823240865206272)| 322.7k | 767   | 127      | 17     | 1241      | 6      | 4/11/23  | 🧵 |
 | [@colingrowlancer](https://twitter.com/colingrowlancer)|  [Tweet](https://twitter.com/colingrowlancer/status/1646073692407881729)| 206.7k | 1827  | 179      | 10     | 383       | 6      | 4/12/23  | 📝 |
+| [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1646044550530490369)| 26k | 502  | 156 | 3   | 317    | 1   | 4/12/23  | 🧵 |
 | [@DeeperThrill](https://twitter.com/DeeperThrill)|  [Tweet](https://twitter.com/DeeperThrill/status/1606128200077021184)| 23.2k  | 165   | 22       | 1      | 88        | 5      | 12/22/22 | 🧵 |
 | [@iamwillcannon](https://twitter.com/iamwillcannon)|  [Tweet](https://twitter.com/iamwillcannon/status/1618992049843322887)| 22.5k  | 57    | 8        | 1      | 101       | 10     | 1/27/22  | 🧵 |
 | [@heyaliou](https://twitter.com/heyaliou)|  [Tweet](https://twitter.com/heyaliou/status/1633666854836117505)| 19.4k  | 63    | 13       | 1  | 107   | 12     | 3/8/23   | 🧵 |

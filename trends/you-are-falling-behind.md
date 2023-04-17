@@ -37,6 +37,7 @@ _______________
 |  Tweeter | Link | Views  | Likes | Retweets | Quotes | Bookmarks | Length | Date     | Type |
 | ---| ------ |--------|-------|----------|--------|-----------|--------|----------|----- |
 | [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1584477023346470912)| - | 64.2k  | 14.1k    | 471     | 61.3k   | 9  | 10/24/22  | 🧵 |
+| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1642542129665679361)| 3.3M | 18.8k | 4428  | 156 | 30.2k | 17  | 4/2/23  | 🧵 |
 | [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1643968837136834560)| 1.9M | 26.9k  | 6112    | 98     | 21.3k   | 2  | 4/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756   | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
 | [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1622864505788157954)| 1M | 8265  | 2779 | 48  | 7217  |  9 | 2/7/23  | 🧵 |

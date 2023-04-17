@@ -1,13 +1,3 @@
-
-Don't forget to:
-
-⭐⭐⭐ Give this repo a star so 95% of people can see these tips
-
-🔖🔖🔖 Bookmark this page to follow the hype
-
-👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
-<br>
-<br>
 # Table of Contents
 
 [🤖️ AI Hype: A Twitter History](#history)
@@ -67,5 +57,7 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 
 
 # <a name="support"></a>☕️ Support
+ [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
+ 
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 

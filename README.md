@@ -72,6 +72,7 @@ More to come soon!
 | 4/13/2023  | [Godmode Announcement](https://twitter.com/_Lonis_/status/1646641412182536196) | [@_Lonis_](https://twitter.com/_Lonis_) |
 | 4/13/2023  | [Stanford Generative Agents Study](https://twitter.com/thealexbanks/status/1646495660664057856) | [@thealexbanks](https://twitter.com/thealexbanks) |
 | 4/13/2023 | [Elon creates X.ai](https://twitter.com/WSJ/status/1646993010373132288) | [@WSJ](https://twitter.com/WSJ)|
+| 4/16/2023 | [MiniGPT Announcement](https://twitter.com/tikgiau/status/1647767975804452864) | [@tikgiau](https://twitter.com/tikgiau)|
 | 4/17/2023 | [Magi Annnouncement](https://twitter.com/heyBarsee/status/1647857832501592064) | [@heyBarsee](https://twitter.com/heyBarsee)|
 
 

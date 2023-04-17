@@ -39,6 +39,7 @@ _______________
 | [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1584477023346470912)| - | 64.2k  | 14.1k    | 471     | 61.3k   | 9  | 10/24/22  | 🧵 |
 | [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1643968837136834560)| 1.9M | 26.9k  | 6112    | 98     | 21.3k   | 2  | 4/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756   | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
+| [@NikkiSiapno](https://twitter.com/NikkiSiapno)|  [Tweet](https://twitter.com/NikkiSiapno/status/1622864505788157954)| 1M | 8265  | 2779 | 48  | 7217  |  9 | 2/7/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1644685812024451073)| 695.1k | 3760  | 1052  | 18     | 5296   | 11 | 4/8/23  | 🧵 |
 | [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1641068876363612190)| 572k | 6732  | 1463   | 31     | 6808     | 2     | 3/29/23  | 🧵 |
 | [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1647978283131076608)| 496.7k | 1272  | 272      | 12     | 2427   | 15     | 4/17/23  | 🧵 |

@@ -1,3 +1,6 @@
+⬅️ [AI Hype: A Twitter History](https://github.com/jtmuller5/You-Dont-Know-ChatGPT)
+_______________
+
 | Field | Data |
 |-------|------|
 | Title | AutoGPT is the Next Big Thing |

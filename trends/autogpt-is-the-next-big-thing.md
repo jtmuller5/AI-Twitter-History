@@ -38,6 +38,7 @@ Despite it being an experimental project, many folks on Twitter have claimed tha
 | [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
 | [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |
 | [@heyzoish](https://twitter.com/heyzoish)|  [Tweet](https://twitter.com/heyzoish/status/1646531691119534080)| 5147 | 24 | 5 | 0 | 6 | 1 | 4/13/23 | 🧵 |
+| [@lukaslutzAI](https://twitter.com/lukaslutzAI)|  [Tweet](https://twitter.com/lukaslutzAI/status/1646463471884681217)| 310 | 6 | 0 | 0 | 2 | 1 | 4/13/23 | 🧵 |
 | [@getitprompt](https://twitter.com/getitprompt)|  [Tweet](https://twitter.com/getitprompt/status/1646215374612856845)| 271 | 4 | 0 | 0 | 0 | 1 | 4/12/23 | 🧵 |
 
 

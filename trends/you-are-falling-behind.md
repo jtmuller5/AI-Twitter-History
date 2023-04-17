@@ -36,6 +36,7 @@ _______________
 ## Threads
 |  Tweeter | Link | Views  | Likes | Retweets | Quotes | Bookmarks | Length | Date     | Type |
 | ---| ------ |--------|-------|----------|--------|-----------|--------|----------|----- |
+| [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/NikkiSiapno/status/1584477023346470912)| - | 64.2k  | 14.1k    | 471     | 61.3k   | 9  | 10/24/22  | 🧵 |
 | [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1643968837136834560)| 1.9M | 26.9k  | 6112    | 98     | 21.3k   | 2  | 4/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756   | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
 | [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1647978283131076608)| 496.7k | 1272  | 272      | 12     | 2427   | 15     | 4/17/23  | 🧵 |

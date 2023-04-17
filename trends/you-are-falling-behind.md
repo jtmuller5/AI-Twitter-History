@@ -36,8 +36,9 @@ _______________
 ## Threads
 |  Tweeter | Link | Views  | Likes | Retweets | Quotes | Bookmarks | Length | Date     | Type |
 | ---| ------ |--------|-------|----------|--------|-----------|--------|----------|----- |
-| [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756      | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
-| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1647978283131076608)| 496.7k | 1272  | 272      | 12     | 2427      | 15     | 4/17/23  | 🧵 |
+| [@heykahn](https://twitter.com/heykahn)|  [Tweet](https://twitter.com/heykahn/status/1643968837136834560)| 1.9M | 26.9k  | 6112    | 98     | 21.3k   | 2  | 4/6/23  | 🧵 |
+| [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1647606651027849218)| 1.1M | 8106  | 1756   | 43     | 10.5k      | 11     | 4/16/23  | 🧵 |
+| [@heyBarsee](https://twitter.com/heyBarsee)|  [Tweet](https://twitter.com/heyBarsee/status/1647978283131076608)| 496.7k | 1272  | 272      | 12     | 2427   | 15     | 4/17/23  | 🧵 |
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1641778057135501313)| 378.4k | 2248  | 614      | 17     | 3067      | 13     | 3/31/23  | 🧵 |
 | [@NextLogicHQ](https://twitter.com/NextLogicHQ)|  [Tweet](https://twitter.com/NextLogicHQ/status/1645823240865206272)| 322.7k | 767   | 127      | 17     | 1241      | 6      | 4/11/23  | 🧵 |
 | [@colingrowlancer](https://twitter.com/colingrowlancer)|  [Tweet](https://twitter.com/colingrowlancer/status/1646073692407881729)| 206.7k | 1827  | 179      | 10     | 383       | 6      | 4/12/23  | 📝 |

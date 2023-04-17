@@ -42,6 +42,7 @@ Despite it being an experimental project, many folks on Twitter have claimed tha
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1646077923030450176)| 949.8k | 3097 | 588 | 31 | 3254 | 9 | 4/12/23 | 🧵 |
 | [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
 | [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |
+| [@ChrisClickUp](https://twitter.com/ChrisClickUp)|  [Tweet](https://twitter.com/ChrisClickUp/status/1647963193765945347)| 128.5k | 249 | 54 | 4 | 211 | 11 | 4/17/23 | 🧵 |
 | [@BoucherNicolas](https://twitter.com/BoucherNicolas)|  [Tweet](https://twitter.com/BoucherNicolas/status/1646250158118584322)| 38.5k | 48 | 9 | 3 | 120 | 13 | 4/12/23 | 🧵 |
 | [@DeeperThrill](https://twitter.com/DeeperThrill)|  [Tweet](https://twitter.com/DeeperThrill/status/1644563813939724288)| 5581 | 31 | 12 | 1 | 21 | 3 | 4/8/23 | 🧵 |
 | [@heyzoish](https://twitter.com/heyzoish)|  [Tweet](https://twitter.com/heyzoish/status/1646531691119534080)| 5147 | 24 | 5 | 0 | 6 | 1 | 4/13/23 | 🧵 |

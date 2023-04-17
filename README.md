@@ -35,6 +35,10 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 | Build a business with an AI co-founder| 
 
 # <a name="trends"></a>📈 Trends
+
+This section will specifically highlight trends relating to what the AI community is tweeting about. Some trends are are challenges. Others are tweet "templates". 
+
+More to come soon!
 | Months             | Trend         | Hashtags   |
 |--------------------|---------------|------------|
 | March 2023         | [HustleGPT](https://github.com/jtmuller5/The-HustleGPT-Challenge) | #HustleGPT |

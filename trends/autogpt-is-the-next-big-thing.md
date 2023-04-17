@@ -1,4 +1,4 @@
-⬅️ [AI Hype: A Twitter History](https://github.com/jtmuller5/You-Dont-Know-ChatGPT)
+⬅️ [AI Twitter History](https://github.com/jtmuller5/You-Dont-Know-ChatGPT)
 _______________
 
 | Field | Data |

@@ -62,6 +62,7 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 | 3/29/2023 | [Baby AGI Announcement](https://twitter.com/yoheinakajima/status/1640934493489070080)| [@yoheinakajima](https://twitter.com/yoheinakajima)|
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |
 | 4/3/2023  | [Baby AGI Goes Open Source](https://twitter.com/yoheinakajima/status/1642881722495954945) | [@yoheinakajima](https://twitter.com/yoheinakajima) |
+| 4/8/2023  | [AgentGPT Announcement](https://twitter.com/asimdotshrestha/status/1644883727707959296) | [@asimdotshrestha](https://twitter.com/asimdotshrestha) |
 | 4/14/2023 | [Elon creates X.ai](https://twitter.com/WSJ/status/1646993010373132288) | [@WSJ](https://twitter.com/WSJ)|
 
 

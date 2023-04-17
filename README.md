@@ -50,6 +50,7 @@ More to come soon!
 
 | Date       | Event                                                                       | User                              |
 |------------|-----------------------------------------------------------------------------|-----------------------------------|
+| 9/21/2022 | [Whisper Announcement](https://twitter.com/OpenAI/status/1572629923017400326) | [@OpenAI](https://twitter.com/OpenAI) |
 | 10/27/2022 | [AvatarAI Announcement](https://twitter.com/levelsio/status/1585813757560700928) | [@levelsio](https://twitter.com/levelsio) |
 | 11/30/2022 | [ChatGPT Announcement](https://twitter.com/sama/status/1598038815599661056) | [@sama](https://twitter.com/sama) |
 | 2/3/2023 | [Poe Announcement](https://twitter.com/adamdangelo/status/1621544019930279936) | [@adamdangelo](https://twitter.com/adamdangelo) |

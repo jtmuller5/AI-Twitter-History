@@ -47,8 +47,9 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 |------------|-----------------------------------------------------------------------------|-----------------------------------|
 | 10/27/2022 | [AvatarAI Announcement](https://twitter.com/levelsio/status/1585813757560700928) | [@levelsio](https://twitter.com/levelsio) |
 | 11/30/2022 | [ChatGPT Announcement](https://twitter.com/sama/status/1598038815599661056) | [@sama](https://twitter.com/sama) |
-| 2/3/2022 | [Poe Announcement](https://twitter.com/adamdangelo/status/1621544019930279936) | [@adamdangelo](https://twitter.com/adamdangelo) |
-| 3/3/2022 | [LLAMA Leak](https://twitter.com/hn_frontpage/status/1631619308664045570) | [@hn_frontpage](https://twitter.com/hn_frontpage) |
+| 2/3/2023 | [Poe Announcement](https://twitter.com/adamdangelo/status/1621544019930279936) | [@adamdangelo](https://twitter.com/adamdangelo) |
+| 3/1/2023 | [ChatGPT API Announcement](https://twitter.com/gdb/status/1630991925984755714) | [@gdb](https://twitter.com/gdb) |
+| 3/3/2023 | [LLAMA Leak](https://twitter.com/hn_frontpage/status/1631619308664045570) | [@hn_frontpage](https://twitter.com/hn_frontpage) |
 | 3/14/2023  | [GPT-4 Announcement](https://twitter.com/sama/status/1635687853324902401)   | [@sama](https://twitter.com/sama) |
 | 3/14/2023  | [Midjourney V5 Announcement](https://twitter.com/midjourney/status/1636130389365497857)   | [@midjourney](https://twitter.com/midjourney) |
 | 3/14/2023  | [PaLM API Announcement](https://twitter.com/sundarpichai/status/1635629680316547072)   | [@sundarpichai](https://twitter.com/sundarpichai) |

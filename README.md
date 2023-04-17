@@ -69,6 +69,7 @@ More to come soon!
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |
 | 4/3/2023  | [Baby AGI Goes Open Source](https://twitter.com/yoheinakajima/status/1642881722495954945) | [@yoheinakajima](https://twitter.com/yoheinakajima) |
 | 4/8/2023  | [AgentGPT Announcement](https://twitter.com/asimdotshrestha/status/1644883727707959296) | [@asimdotshrestha](https://twitter.com/asimdotshrestha) |
+| 4/11/2023  | [Meta SAM Announcement](https://twitter.com/MetaAI/status/1645835862817800193) | [@MetaAI](https://twitter.com/MetaAI) |
 | 4/13/2023  | [Godmode Announcement](https://twitter.com/_Lonis_/status/1646641412182536196) | [@_Lonis_](https://twitter.com/_Lonis_) |
 | 4/13/2023  | [Stanford Generative Agents Study](https://twitter.com/thealexbanks/status/1646495660664057856) | [@thealexbanks](https://twitter.com/thealexbanks) |
 | 4/13/2023 | [Elon creates X.ai](https://twitter.com/WSJ/status/1646993010373132288) | [@WSJ](https://twitter.com/WSJ)|

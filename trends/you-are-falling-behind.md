@@ -49,6 +49,7 @@ _______________
 | [@HeyAbhishekk](https://twitter.com/HeyAbhishekk)|  [Tweet](https://twitter.com/HeyAbhishekk/status/1646117872962519040)| 327.2k | 1846  | 502 | 12   | 2432    | 12  | 4/12/23  | 🧵 |
 | [@NextLogicHQ](https://twitter.com/NextLogicHQ)|  [Tweet](https://twitter.com/NextLogicHQ/status/1645823240865206272)| 322.7k | 767   | 127      | 17     | 1241      | 6      | 4/11/23  | 🧵 |
 | [@colingrowlancer](https://twitter.com/colingrowlancer)|  [Tweet](https://twitter.com/colingrowlancer/status/1646073692407881729)| 206.7k | 1827  | 179      | 10     | 383       | 6      | 4/12/23  | 📝 |
+| [@Mindset4_Life](https://twitter.com/Mindset4_Life)|  [Tweet](https://twitter.com/Mindset4_Life/status/1631675503005298690)| 74.7k | 192  | 71    | 2   | 160   | 10 | 3/3/23  | 🧵 |
 | [@MarkRoss_ecom](https://twitter.com/MarkRoss_ecom)|  [Tweet](https://twitter.com/MarkRoss_ecom/status/1632817508649512966)| 29.8k | 163  | 183   | 1  | 58   | 2 | 3/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1646044550530490369)| 26k | 502  | 156 | 3   | 317    | 1   | 4/12/23  | 🧵 |
 | [@DeeperThrill](https://twitter.com/DeeperThrill)|  [Tweet](https://twitter.com/DeeperThrill/status/1606128200077021184)| 23.2k  | 165   | 22       | 1      | 88        | 5      | 12/22/22 | 🧵 |

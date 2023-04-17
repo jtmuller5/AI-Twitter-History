@@ -14,10 +14,12 @@ The creator @SigGravitas officially announced it as an [open source project](htt
 | ---- | ---- | 
 |![image](https://user-images.githubusercontent.com/47997351/232349376-4b4c17ae-785d-4edd-a51f-8a745a0ca5f4.png)|![image](https://user-images.githubusercontent.com/47997351/232349430-481a42b5-4a1d-41a6-9cbe-d8ddde1f1d38.png)|
 
-
+Despite it being an experimental project, many folks on Twitter have claimed that it is the "Next Big Thing" in AI.
 # Table of Contents
 
 [🐦 Tweets](#tweets)
+
+[📝 Template](#template)
 
 [☕️ Support](#support)
 
@@ -35,8 +37,18 @@ The creator @SigGravitas officially announced it as an [open source project](htt
 | [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1646077923030450176)| 949.8k | 3097 | 588 | 31 | 3254 | 9 | 4/12/23 | 🧵 |
 | [@AlphaSignalAI](https://twitter.com/AlphaSignalAI)|  [Tweet](https://twitter.com/AlphaSignalAI/status/1645847165066006529)| 789.6k | 2592 | 553 | 69 | 2219 | 3 | 4/11/23 | 🧵 |
 | [@oledoteth](https://twitter.com/oledoteth)|  [Tweet](https://twitter.com/oledoteth/status/1646504024378687491)| 227k | 409 | 90 | 11 | 397 | 10 | 4/13/23 | 🧵 |
+| [@heyzoish](https://twitter.com/heyzoish)|  [Tweet](https://twitter.com/heyzoish/status/1646531691119534080)| 5147 | 24 | 5 | 0 | 6 | 1 | 4/13/23 | 🧵 |
 
 
+
+# <a name="template"></a>📝 Template
+```
+AutoGPT is the next BIG thing in AI. 
+
+Seems like a new *groundbreaking* update comes out every hour. 
+
+Here are a few examples just from the past 24 hours: 👇
+```
 
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

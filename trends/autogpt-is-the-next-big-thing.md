@@ -44,6 +44,7 @@ Despite it being an experimental project, many folks on Twitter have claimed tha
 | [@BoucherNicolas](https://twitter.com/BoucherNicolas)|  [Tweet](https://twitter.com/BoucherNicolas/status/1646250158118584322)| 38.5k | 48 | 9 | 3 | 120 | 13 | 4/12/23 | 🧵 |
 | [@DeeperThrill](https://twitter.com/DeeperThrill)|  [Tweet](https://twitter.com/DeeperThrill/status/1644563813939724288)| 5581 | 31 | 12 | 1 | 21 | 3 | 4/8/23 | 🧵 |
 | [@heyzoish](https://twitter.com/heyzoish)|  [Tweet](https://twitter.com/heyzoish/status/1646531691119534080)| 5147 | 24 | 5 | 0 | 6 | 1 | 4/13/23 | 🧵 |
+| [@dan_eftekhari](https://twitter.com/dan_eftekhari)|  [Tweet](https://twitter.com/dan_eftekhari/status/1647207777620688897)| 807 | 7 | 3 | 0 | 3 | 6 | 4/15/23 | 🧵 |
 | [@lukaslutzAI](https://twitter.com/lukaslutzAI)|  [Tweet](https://twitter.com/lukaslutzAI/status/1646463471884681217)| 310 | 6 | 0 | 0 | 2 | 1 | 4/13/23 | 🧵 |
 | [@getitprompt](https://twitter.com/getitprompt)|  [Tweet](https://twitter.com/getitprompt/status/1646215374612856845)| 271 | 4 | 0 | 0 | 0 | 1 | 4/12/23 | 🧵 |
 

@@ -65,6 +65,7 @@ More to come soon!
 | 3/21/2023  | [Adobe Firefly Announcement](https://twitter.com/montelutz/status/1638215263836569600)  | [@montelutz](https://twitter.com/montelutz) |
 | 3/22/2023  | [Copilot X Announcement](https://twitter.com/github/status/1638541174611779584)  | [@github](https://twitter.com/github) |
 | 3/23/2023 | [ChatGPT Plugins Announcement](https://twitter.com/OpenAI/status/1638952876281335813)| [@OpenAI](https://twitter.com/OpenAI)|
+| 3/29/2023 | [Tech Calls for Pause on AI](https://twitter.com/nytimes/status/1641274067633291264)| [@nytimes](https://twitter.com/nytimes)|
 | 3/29/2023 | [Baby AGI Announcement](https://twitter.com/yoheinakajima/status/1640934493489070080)| [@yoheinakajima](https://twitter.com/yoheinakajima)|
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |
 | 4/3/2023  | [Baby AGI Goes Open Source](https://twitter.com/yoheinakajima/status/1642881722495954945) | [@yoheinakajima](https://twitter.com/yoheinakajima) |

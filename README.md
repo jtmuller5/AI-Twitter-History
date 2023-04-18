@@ -76,6 +76,8 @@ More to come soon!
 | 4/16/2023 | [MiniGPT Announcement](https://twitter.com/tikgiau/status/1647767975804452864) | [@tikgiau](https://twitter.com/tikgiau)|
 | 4/17/2023 | [Magi Annnouncement](https://twitter.com/heyBarsee/status/1647857832501592064) | [@heyBarsee](https://twitter.com/heyBarsee)|
 | 4/17/2023 | [DINOv2 Annnouncement](https://twitter.com/MetaAI/status/1648038974290808836) | [@MetaAI](https://twitter.com/MetaAI)|
+| 4/17/2023 | [TruthGPT Annnouncement](https://twitter.com/SawyerMerritt/status/1648081976400703488) | [@SawyerMerritt](https://twitter.com/SawyerMerritt)|
+
 
 
 # <a name="support"></a>☕️ Support

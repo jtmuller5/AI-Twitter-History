@@ -50,6 +50,7 @@ More to come soon!
 
 | Date       | Event                                                                       | User                              |
 |------------|-----------------------------------------------------------------------------|-----------------------------------|
+| 8/22/2022 | [Stable Diffusion Announcement](https://twitter.com/EMostaque/status/1561777122082824192) | [@EMostaque](https://twitter.com/EMostaque) |
 | 9/21/2022 | [Whisper Announcement](https://twitter.com/OpenAI/status/1572629923017400326) | [@OpenAI](https://twitter.com/OpenAI) |
 | 10/27/2022 | [AvatarAI Announcement](https://twitter.com/levelsio/status/1585813757560700928) | [@levelsio](https://twitter.com/levelsio) |
 | 11/30/2022 | [ChatGPT Announcement](https://twitter.com/sama/status/1598038815599661056) | [@sama](https://twitter.com/sama) |

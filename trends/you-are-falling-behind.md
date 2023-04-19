@@ -51,6 +51,7 @@ _______________
 | [@colingrowlancer](https://twitter.com/colingrowlancer)|  [Tweet](https://twitter.com/colingrowlancer/status/1646073692407881729)| 206.7k | 1827  | 179      | 10     | 383       | 6      | 4/12/23  | 📝 |
 | [@csaba_kissi](https://twitter.com/csaba_kissi)|  [Tweet](https://twitter.com/csaba_kissi/status/1615348720224333826)| 132.7k | 646  | 190   | 1   | 438  | 9 | 1/17/23  | 🧵 |
 | [@Mindset4_Life](https://twitter.com/Mindset4_Life)|  [Tweet](https://twitter.com/Mindset4_Life/status/1631675503005298690)| 74.7k | 192  | 71    | 2   | 160   | 10 | 3/3/23  | 🧵 |
+| [@aaditsh](https://twitter.com/aaditsh)|  [Tweet](https://twitter.com/aaditsh/status/1648726073251594243)| 37.5k | 91  | 14    | 2   | 173   | 10 | 4/19/23  | 🧵 |
 | [@MarkRoss_ecom](https://twitter.com/MarkRoss_ecom)|  [Tweet](https://twitter.com/MarkRoss_ecom/status/1632817508649512966)| 29.8k | 163  | 183   | 1  | 58   | 2 | 3/6/23  | 🧵 |
 | [@AngryTomtweets](https://twitter.com/AngryTomtweets)|  [Tweet](https://twitter.com/AngryTomtweets/status/1646044550530490369)| 26k | 502  | 156 | 3   | 317    | 1   | 4/12/23  | 🧵 |
 | [@DeeperThrill](https://twitter.com/DeeperThrill)|  [Tweet](https://twitter.com/DeeperThrill/status/1606128200077021184)| 23.2k  | 165   | 22       | 1      | 88        | 5      | 12/22/22 | 🧵 |

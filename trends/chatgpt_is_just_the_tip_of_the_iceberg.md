@@ -29,7 +29,8 @@ ChatGPT was a worldwide phenomenon and the fastest application to reach 100 mill
 ## Threads
 |  Tweeter | Link | Views |Likes | Retweets | Quotes  | Bookmarks  | Length | Date | Type |
 | ---| ------ | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |----- |
-| [@gregisenberg](https://twitter.com/gregisenberg)|  [Tweet](https://twitter.com/gregisenberg/status/1645817335024869376)| 5.6M | 19.6k | 3122 | 360 | 21.4k | 17 | 4/11/23 | 🧵 |
+| [@HeyAbhishekk](https://twitter.com/HeyAbhishekk)|  [Tweet](https://twitter.com/HeyAbhishekk/status/1645982456053477376)| 32.9k | 355 | 203 | 4 | 34 | 2 | 4/11/23 | 🧵 |
+| [@hasantoxr](https://twitter.com/hasantoxr)|  [Tweet](https://twitter.com/hasantoxr/status/1649054866709553152)| 15.8k | 109 | 30 | 2 | 103 | 15 | 4/20/23 | 🧵 |
 
 
 

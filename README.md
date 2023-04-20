@@ -69,6 +69,7 @@ More to come soon!
 | 3/29/2023 | [Tech Calls for Pause on AI](https://twitter.com/nytimes/status/1641274067633291264)| [@nytimes](https://twitter.com/nytimes)|
 | 3/29/2023 | [Baby AGI Announcement](https://twitter.com/yoheinakajima/status/1640934493489070080)| [@yoheinakajima](https://twitter.com/yoheinakajima)|
 | 3/30/2023  | [AutoGPT Announcement](https://twitter.com/SigGravitas/status/1641437094043332614) | [@SigGravitas](https://twitter.com/SigGravitas) |
+| 3/30/2023  | [Vicuna Announcement](https://twitter.com/lmsysorg/status/1641529839038640128) | [@lmsysorg](https://twitter.com/lmsysorg) |
 | 4/3/2023  | [Baby AGI Goes Open Source](https://twitter.com/yoheinakajima/status/1642881722495954945) | [@yoheinakajima](https://twitter.com/yoheinakajima) |
 | 4/8/2023  | [AgentGPT Announcement](https://twitter.com/asimdotshrestha/status/1644883727707959296) | [@asimdotshrestha](https://twitter.com/asimdotshrestha) |
 | 4/11/2023  | [Meta SAM Announcement](https://twitter.com/MetaAI/status/1645835862817800193) | [@MetaAI](https://twitter.com/MetaAI) |

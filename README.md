@@ -44,7 +44,7 @@ More to come soon!
 | March 2023         | [HustleGPT](https://github.com/jtmuller5/The-HustleGPT-Challenge) | #HustleGPT |
 | January-April 2023 | [You don't know ChatGPT](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/you-dont-know-chatgpt.md) | #ChatGPT |
 | April 2023         | [AutoGPT is the Next Big Thing](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/autogpt-is-the-next-big-thing.md) | #AutoGPT |
-| April 2023         | [ChatGPT is Just the Tip of the Iceberg](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/chatgpt-is-just-the-tip-of-the-iceberg.md) | #ChatGPT |
+| April 2023         | [ChatGPT is Just the Tip of the Iceberg](https://github.com/jtmuller5/You-Dont-Know-ChatGPT/blob/main/trends/chatgpt_is_just_the_tip_of_the_iceberg.md) | #ChatGPT |
 | March-April 2023         | [You're falling behind](https://github.com/jtmuller5/AI-Twitter-History/blob/main/trends/you-are-falling-behind.md) |  #AI|
 
 # <a name="timeline"></a>🕰️ Timeline

@@ -29,9 +29,9 @@ I'm also hoping I can shine some light on when certain events occurred and just 
 
 # <a name="sponsor"></a>🤝 Our Sponsor
 
-| [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
+| [HustleGPT Companion Guide](https://codeontherocks.gumroad.com/l/abqwfw)|
 |----- |
-|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
+|<a href="https://codeontherocks.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
 | Build a business with an AI co-founder| 
 
 # <a name="trends"></a>📈 Trends

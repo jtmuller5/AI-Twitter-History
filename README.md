@@ -83,12 +83,10 @@ More to come soon!
 | 4/17/2023 | [TruthGPT Annnouncement](https://twitter.com/SawyerMerritt/status/1648081976400703488) | [@SawyerMerritt](https://twitter.com/SawyerMerritt)|
 | 4/18/2023 | [BloombergGPT Annnouncement](https://twitter.com/thealexbanks/status/1648299092249042944) | [@thealexbanks](https://twitter.com/thealexbanks)|
 | 4/19/2023 | [StableLM Annnouncement](https://twitter.com/StabilityAI/status/1648706156330876928) | [@StabilityAI](https://twitter.com/StabilityAI)|
-| 4/20/2023 | [Google DeepMind Annnouncement](https://twitter.com/DeepMind/status/1649097822338449409) | [@DeepMind](https://twitter.com/DeepMind)|
+| 4/20/2023 | [Google DeepMind Annnouncement](https://twitter.com/GoogleDeepMind/status/1649097822338449409) | [@GoogleDeepMind](https://twitter.com/GoogleDeepMind)|
 
 
 
 # <a name="support"></a>☕️ Support
- [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
- 
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
